@@ -9,6 +9,9 @@
 - 😄 Pronouns: She/Her
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img src="https://github-readme-stats.vercel.app/api?username=kanika-rawat121&show_icons=true"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanika-rawat121&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kanika-rawat121&theme=chartreuse-dark&border_radius=5.6&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kanika-rawat121&theme=radical-dark&border_radius=5.6&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
