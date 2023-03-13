@@ -21,7 +21,6 @@
 <details>
     <summary><b>🛠️ Languages & Tools</b></summary><br/>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  
 </details>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
